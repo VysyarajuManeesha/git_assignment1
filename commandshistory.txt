@@ -3,5 +3,17 @@ cd ass1
 ls -al
 git init
 ls -al
-touchhhhhhh code.txt log.txt output.txt
+touch code.txt log.txt output.txt
+ls
+git status
+git add code.txt output.txt
+git status
+git commit -m "1st commit in 1st Ass"
+git log
+git remote -v
+git remote add origin https://github.com/VysyarajuManeesha/git_assignment1.git
+git remote -v
+git push origin master
+git status
+
 
