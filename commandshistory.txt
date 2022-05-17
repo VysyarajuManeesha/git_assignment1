@@ -1,0 +1,7 @@
+mkdir ass1
+cd ass1
+ls -al
+git init
+ls -al
+touchhhhhhh code.txt log.txt output.txt
+
